@@ -27,7 +27,7 @@ trying to improve on nk412/quickhist
                                                           Max:107.0
 ```
 
-#### guassian
+#### gaussian
 
 ```
 ╰──╴$ for x in $( seq 100000); do echo $(( ($RANDOM + $RANDOM + $RANDOM) )) ; done | python boxel.py
