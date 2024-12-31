@@ -1,5 +1,8 @@
 ## WIP WIP WIP
 
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/5216023c-7a2a-4910-8886-acabab336194" />
+
+
 ### boxel (even the name is WIP)
 trying to improve on nk412/quickhist
 
